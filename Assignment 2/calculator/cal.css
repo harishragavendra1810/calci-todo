@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.button {
+    width: 90px;
+    height: 70px;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(100, 43, 115, 1) 0%, rgba(4, 0, 4, 1) 90%);
+}
+
+.dis {
+    width: 370px;
+    height: 60px;
+    text-align: right;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.head {
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.Calbg {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3kuvcsLHxCcPhQB0qql92WCY6Du-m2Rvi1A&usqp=CAU");
+    background-size: cover;
+
+    height: 100vh;
+}
